@@ -1,1 +1,1 @@
-# C-Project
+# C++ programming repo
